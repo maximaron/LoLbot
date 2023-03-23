@@ -14,5 +14,9 @@
     "node-fetch": "^2.6.9",
     "node-telegram-bot-api": "^0.61.0",
     "nodemon": "^2.0.21"
+  },
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
   }
 }
